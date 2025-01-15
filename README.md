@@ -36,4 +36,4 @@ Welcome to my **7-Day JavaScript Learning Challenge**! This repository documents
 🔨 **In Progress** – Learning and building daily!  
 
 ## 🤝 Contributions
-This is a personal learning challenge, but feel free to share feedback or suggestions!
+This is a personal learning challenge, but feel free to share feedback or suggestions! 
